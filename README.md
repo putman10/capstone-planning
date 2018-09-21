@@ -2,12 +2,16 @@
 
 The goal of this project is to create a resource for those that are underrepresented when it comes to services. The other goal is to create an extremely accessible UI that is not only accessible for anyone with a disability but for everyone. Anyone can benefit from well planned User experiences, contrasting element (especially text: color and background), and a quality experience on any device including screen readers.
 
+### Mockup
+
+![Mockup](/assets/mockup.jpg "Accessibility app homepage mockup")
 
 ### Component Tree
 
 ![Component Tree](/assets/componentTree.png "Accessibility app comp tree")
 
 ###API's
+
 ```
 [Disabled Person](https://www.disabledperson.com/api), [Movie Glu](https://developer.movieglu.com/), [Yelp](https://www.yelp.com/developers/documentation/v3)
 ```
@@ -20,6 +24,7 @@ Say what the step will be
 
 ## Static website
 [Static Website](https://github.com/putman10/capstone-static.git) This is an initial website created for visual representation and planning.
+
 
 
 ## Project Proposal
