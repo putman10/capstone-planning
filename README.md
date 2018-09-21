@@ -1,10 +1,7 @@
 # Accessibility in Entertainment and Beyond
 
-One Paragraph of project description goes here
+The goal of this project is to create a resource for those that are underrepresented when it comes to services. The other goal is to create an extremely accessible UI that is not only accessible for anyone with a disability but for everyone. Anyone can benefit from well planned User experiences, contrasting element (especially text: color and background), and a quality experience on any device including screen readers.
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Component Tree
 
