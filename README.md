@@ -18,9 +18,9 @@ A step by step series of examples that tell you how to get a development env run
 
 Say what the step will be
 
-## Deployment
+## Static website
+[Static Website](https://github.com/putman10/capstone-static.git) This is an initial website created for visual representation and planning.
 
-Add additional notes about how to deploy this on a live system
 
 ## Project Proposal
 ### Name of Student:
